@@ -1,0 +1,12 @@
+C:\Users\Konvy\source\repos\UniversalDatabaseServices\UniversalDatabaseServices\bin\Debug\UniversalDatabaseServices.dll.config
+C:\Users\Konvy\source\repos\UniversalDatabaseServices\UniversalDatabaseServices\bin\Debug\UniversalDatabaseServices.dll
+C:\Users\Konvy\source\repos\UniversalDatabaseServices\UniversalDatabaseServices\bin\Debug\UniversalDatabaseServices.pdb
+C:\Users\Konvy\source\repos\UniversalDatabaseServices\UniversalDatabaseServices\bin\Debug\EntityFramework.dll
+C:\Users\Konvy\source\repos\UniversalDatabaseServices\UniversalDatabaseServices\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Konvy\source\repos\UniversalDatabaseServices\UniversalDatabaseServices\bin\Debug\EntityFramework.xml
+C:\Users\Konvy\source\repos\UniversalDatabaseServices\UniversalDatabaseServices\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Konvy\source\repos\UniversalDatabaseServices\UniversalDatabaseServices\obj\Debug\UniversalDatabaseServices.csproj.AssemblyReference.cache
+C:\Users\Konvy\source\repos\UniversalDatabaseServices\UniversalDatabaseServices\obj\Debug\UniversalDatabaseServices.csproj.CoreCompileInputs.cache
+C:\Users\Konvy\source\repos\UniversalDatabaseServices\UniversalDatabaseServices\obj\Debug\UniversalDatabaseServices.csproj.CopyComplete
+C:\Users\Konvy\source\repos\UniversalDatabaseServices\UniversalDatabaseServices\obj\Debug\UniversalDatabaseServices.dll
+C:\Users\Konvy\source\repos\UniversalDatabaseServices\UniversalDatabaseServices\obj\Debug\UniversalDatabaseServices.pdb
